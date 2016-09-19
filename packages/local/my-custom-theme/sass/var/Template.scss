@@ -1,0 +1,13 @@
+.day-weather-wrap {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+}
+.day-weather-title,
+.day-weather-box {
+  display: block;
+  background-color: #08826A;
+  font-size: 13px;
+  color: white;
+  padding: 10px;
+}
